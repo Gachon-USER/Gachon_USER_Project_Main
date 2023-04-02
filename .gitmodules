@@ -1,0 +1,12 @@
+[submodule "Recommendation_database"]
+	path = Recommendation_database
+	url = https://github.com/Gachon-USER/Recommendation_database
+[submodule "spring_server"]
+	path = spring_server
+	url = https://github.com/Gachon-USER/spring_server.git
+[submodule "USER_GUI_AOS"]
+	path = USER_GUI_AOS
+	url = https://github.com/Gachon-USER/USER_GUI_AOS.git
+[submodule "Graduation-Work-Chatbot"]
+	path = Graduation-Work-Chatbot
+	url = https://github.com/Gachon-USER/Graduation-Work-Chatbot.git
