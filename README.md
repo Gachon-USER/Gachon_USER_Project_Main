@@ -2,7 +2,7 @@
 
 ---
 
-![Untitled](Gachon_USER%207cbad90b58be426ea708390f4a880bd3/Untitled.png)
+![Untitled](https://github.com/Gachon-USER/Project_Main/blob/main/img_data/main_0.png)
 
 가천대 AI 소프트웨어 학과 졸업작품 프로젝트 인 USER 프로젝트 위키 페이지 입니다.
 
@@ -34,7 +34,7 @@ Define Implementation Units of this project.
 - 안드로이드 어플리케이션으로 제작된 UI 시스템 :
     - UI 구현 내용 :
     
-    ![Untitled](Gachon_USER%207cbad90b58be426ea708390f4a880bd3/Untitled%201.png)
+    ![Untitled](https://github.com/Gachon-USER/Project_Main/blob/main/img_data/main_1.png)
     
     - 세부 구현 내용 : [https://github.com/Gachon-USER/Project_Main/wiki/GUI](https://github.com/Gachon-USER/Project_Main/wiki/GUI)
 
@@ -49,7 +49,7 @@ Define Implementation Units of this project.
     - 작동 방식 설명 :
         - 사용자 음성 → STT → ChatBot(음성 분석 및 명령 파악) → UI (명령에 따른 반응) → TTS
     
-    ![Untitled](Gachon_USER%207cbad90b58be426ea708390f4a880bd3/Untitled%202.png)
+    ![Untitled](https://github.com/Gachon-USER/Project_Main/blob/main/img_data/main_2.png)
     
     - 세부 구현 내용 : [https://github.com/Gachon-USER/Project_Main/wiki/AI-ChatBot](https://github.com/Gachon-USER/Project_Main/wiki/AI-ChatBot)
 
@@ -58,7 +58,7 @@ Define Implementation Units of this project.
 - UI 시스템이 데이터 베이스 및 ChatBot 시스템과 연동하여 동작할수 있도록 API 기능을 제공하는것을 목적으로 제작된  Java Spring boot 서버 프로젝트.
     - 구현내용 이미지 :
         
-        ![Untitled](Gachon_USER%207cbad90b58be426ea708390f4a880bd3/Untitled%203.png)
+        ![Untitled](https://github.com/Gachon-USER/Project_Main/blob/main/img_data/main_3.png)
         
     - 세부 구현 내용 : [https://github.com/Gachon-USER/Project_Main/wiki/Server](https://github.com/Gachon-USER/Project_Main/wiki/Server)
 
